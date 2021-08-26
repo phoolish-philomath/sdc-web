@@ -1,7 +1,7 @@
 {
   "name": "sdc",
   "version": "0.1.0",
-  "homepage": "http://phoolish-philomath.github.io/navigate",
+  "homepage": "http://phoolish-philomath.github.io/sdc-web",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.4",
