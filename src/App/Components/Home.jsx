@@ -104,7 +104,7 @@ export default class Home extends React.Component {
     return (
       <Banner>
         <HeaderTitle>
-          Welcome Kira and Todd to the phoolish deployment of the{' '}
+          Welcome to the{' '}
           <BoldedWord>Social Development Centre Waterloo Region.</BoldedWord>
         </HeaderTitle>
         <HeaderDescription>
